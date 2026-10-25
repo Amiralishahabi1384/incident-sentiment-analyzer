@@ -1,0 +1,15 @@
+data/
+
+saved_models/
+*.pt
+*.pkl
+*.h5
+
+outputs/q2_submission.csv
+
+__pycache__/
+*.ipynb_checkpoints/
+.vscode/
+.env
+
+*env*/
